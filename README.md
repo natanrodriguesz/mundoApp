@@ -69,7 +69,3 @@ mundoApp/
 
 - Projeto simples, sem gerenciamento de estado global ou navegação entre telas.
 - Voltado para prática pessoal e aprendizado, não para uso em produção.
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
